@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohamed Samir</h1>
-<h3 align="center">A backend software engineer 🚀 who delivered high-quality software and automation services to customers from US, Denmark, Germany, and across African continent.</h3>
+<h3 align="center">A Frontend software engineer 🚀 who delivered high-quality software and automation services to customers from US, Denmark, Germany, and across African continent.</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamedsamiredris&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedsamiredris" /> </p>
