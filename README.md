@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohamed Samir</h1>
-<h3 align="center">A Frontend software engineer 🚀 who delivered high-quality software and automation services to customers from US, Denmark, Germany, and across African continent.</h3>
+<h3 align="center">Product-focused Software Engineer with expertise in Frontend development, skilled in utilizing a wide range of frameworks and libraries to deliver scalable, user-centric solutions. Experienced in creating well-designed, high-performance software for clients across the US, Denmark, Germany, Asia and Africa. Dedicated to driving innovation and delivering exceptional digital experience. ![image](https://github.com/user-attachments/assets/a1465ee7-0b5f-4000-9e19-6869ead3b250)
+</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamedsamiredris&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedsamiredris" /> </p>
@@ -9,7 +10,7 @@
 - 💬 Ask me about **React, Javascript, Typescript, Frontend concepts**
 
 - 📫 How to reach me **mohamedsamiredries@outlook.com**
-
+Ï
 - 📄 Know about my experiences [https://drive.google.com/file/d/1HqISmaL_86BJqnA5-78skGzGa_CxIikZ/view?usp=sharing](https://drive.google.com/file/d/1HqISmaL_86BJqnA5-78skGzGa_CxIikZ/view?usp=sharing)
 
 - ⚡ Fun fact **I'm a profissional freestyler footballer**
